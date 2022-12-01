@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>
+ACT SHARADA PUBLIC SCHOOL
+	</title>
+</head>
+<style>
+a {color: red}</style>
+<body background="slide2.jpg" link="#000" alink="#017bf5" vlink="#000"	<br />
+	<h3 align="center">
+		<font face="Lato" size="6" color="green"><a href="https://www.google.com/maps/dir/16.8087812,75.7160424/ACT+Sharada+Public+School+Vijayapur,+Sadashiva+Nagar,+Vijayapura,+Karnataka+586102/@16.8007775,75.7152087,15z/data=!3m1!4b1!4m16!1m6!3m5!1s0x3bc6554935c4d54b:0x45be7523224c715d!2sACT+Sharada+Public+School+Vijayapur!8m2!3d16.7947198!4d75.7316183!4m8!1m1!4e1!1m5!1m1!1s0x3bc6554935c4d54b:0x45be7523224c715d!2m2!1d75.7316183!2d16.7947198">ADDRESS</a>
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+		<font face="cinzel" size="4">
+			<a href="https://darshanactsharadapublicschool.netlify.app/">HOME</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="https://www.youtube.com/channel/UCPSbTycSMs4Dxba0MUNRnBw/videos">VIDEOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+			<a href="ACT SHARADA PUBLIC SCHOOL.jpg">PHOTOS</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="act sharda.txt">ABOUT OUR SCHOOL</a>&nbsp;&nbsp;&nbsp;&nbsp;
+					</font>
+	</h3>
+	<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+	<h1 align="center">
+		<font face="Lato" color="#017bf5" size="7">
+			ACT SHARADA PUBLIC SCHOOL		</font>
+	</h1>
+	<h3 align="center">
+		<font face="Lato" color="green" size="8">
+			A WEB BY DARSHAN 
+		</font>
+	</h3>
+	<br />
+	</body>
+</html>
